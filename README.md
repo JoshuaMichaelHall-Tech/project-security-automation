@@ -1,4 +1,6 @@
-# Security Automation Suite for Financial Services
+# Security Automation Suite for Financial Services (IN DEVELOPMENT)
+
+# IN DEVELOPMENT
 
 A comprehensive security and compliance automation platform designed specifically for financial services organizations. This project provides automated security controls, compliance validation, and evidence collection for regulatory requirements including SOX, PCI-DSS, GDPR, and FINRA.
 
