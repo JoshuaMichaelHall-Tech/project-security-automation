@@ -87,3 +87,6 @@ site/
 local/
 dev-override.tf
 override.tf
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
